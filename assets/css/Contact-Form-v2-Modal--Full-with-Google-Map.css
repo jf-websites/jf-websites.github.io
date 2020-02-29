@@ -1,0 +1,91 @@
+#contactForm .h4 {
+  font-weight: 400;
+  border-bottom: 1px solid silver;
+}
+
+.required-input {
+  color: maroon;
+}
+
+.static-map {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) and (min-width: 767px) {
+  #contactForm .static-map img {
+    width: 100%;
+  }
+}
+
+@media (min-width: 991px) {
+  .text-justify.p1 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .text-justify.p1 {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .text-center.mfr {
+    font-size: 24px;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .text-center.mfr {
+    font-size: 28px;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .text-left.p2 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 990px) {
+  .text-left.p2 {
+    font-size: 17px;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .text-center.tcs {
+    font-size: 34px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .text-center.tcs {
+    font-size: 23px;
+  }
+}
+
+.indexvid1 {
+  border-radius: 15px;
+}
+
+a {
+  /*color: red;*/
+}
+
+.img-fluid.fb {
+  border-radius: 15px;
+}
+
+.img-fluid.ig {
+  border-radius: 15px;
+}
+
+.img-fluid.twit {
+  border-radius: 15px;
+}
+
+.img-fluid.yt {
+  border-radius: 15px;
+}
+

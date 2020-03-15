@@ -158,7 +158,7 @@ a.text-center.mdjlink {
 }
 
 .img-fluid {
-  border-radius: 15px;
+  /*border-radius: 15px;*/
 }
 
 .navbar.navbar-light.navbar-expand-md.fixed-top.navigation-clean {
